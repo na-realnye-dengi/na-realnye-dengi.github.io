@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: na-realnye-dengi.github.io
+Sitemap: https://na-realnye-dengi.github.io/sitemap.xml
